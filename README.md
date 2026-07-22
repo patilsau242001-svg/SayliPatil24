@@ -1,30 +1,188 @@
-# 💫Hi there, I'm Sayli. 
-👩‍🦰<br>💼 Professional Journey: I have experience as an Associate Software Developer and as a Java Intern, where I honed my skills , developing backend solutions, debugging, or collaborating on team projects.<br> 🎯 Looking Ahead: I'm currently seeking new opportunities to grow and contribute in the tech industry. I’m passionate about [specific areas, e.g., building robust Java applications, solving complex problems, or learning cutting-edge technologies.<br> 💡 Skills: Proficient in Java and, Spring Boot, REST APIs, or databases,Javascript Connect: Open to exciting roles and collaborations. 
+Skip to content
+SayliPatil24
+SayliPatil24
+Repository navigation
+Code
+Issues
+Pull requests
+2
+ (2)
+Actions
+Projects
+Security and quality
+Insights
+Files
+Go to file
+t
+T
+README.md
+You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork patilsau242001-svg/SayliPatil24, so you can send a pull request.
+SayliPatil24
+/
+README.md
+in
+main
 
+Edit
 
-## 🌐 Connect with me
-<a href="[https://www.linkedin.com/in/shravni-wakde-127bb9216/](https://www.linkedin.com/in/sayli-patil-918067232/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravni wakde" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Psau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shravni_code" height="30" width="40" /></a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saylipatil96k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayli-patil-918067232/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26513937) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saylidayarampatil@gmail.com) 
-<a href="https://instagram.com/saylipatil96k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shravni_wakde" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sayli_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shravni_code" height="30" width="40" /></a> 
-<a href="https://auth.geeksforgeeks.org/user/[@saylidayarampat1](https://www.hackerrank.com/profile/saylidayarampat1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="wakdeshravni1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/code_with_say" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shravni_code" height="30" width="40" /></a>
+Preview
+Indent mode
 
+Spaces
+Indent size
 
+2
+Line wrap mode
 
+Soft wrap
+Editing README.md file contents
+Selection deleted
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+📈 **Advanced Excel Dashboards**
 
+🧪 **UAT & Test Scenarios**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SayliPatil24&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SayliPatil24&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayliPatil24&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+⚡ **Agile / Scrum & Jira**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🎨 **Wireframing & Process Flows**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SayliPatil24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔗 **Technical Requirements & API Understanding**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🤖 **AI-Assisted Business Analysis**
+
+---
+
+# 📚 Certifications & Learning
+
+- 🗄️ SQL Certification — OneRoadmap
+- 📊 Advanced Excel Certification — OneRoadmap
+- 🤖 Prompt Engineering for Everyone — IBM / Cognitive Class
+- 🤖 Claude 101 — Anthropic Academy
+- 🧠 AI Capabilities & Limitations — Anthropic Academy
+- 🔗 Intro to Model Context Protocol (MCP) — Anthropic Academy
+- 🧩 Introduction to Agent Skills — Anthropic Academy
+- 🤖 Artificial Intelligence — Infosys Springboard
+
+---
+
+# 🎯 Career Objective
+
+I am actively seeking opportunities as a:
+
+**Business Analyst | Technical Business Analyst | IT Business Analyst | Business Systems Analyst | Functional Consultant | Product Analyst**
+
+I am passionate about solving business problems through **requirements engineering, process optimization, data analysis, and technology**.
+
+My goal is to translate complex business needs into **clear functional requirements and effective technology solutions**, while enabling strong collaboration between business stakeholders and technical teams.
+
+> 💡 **"Bridging the gap between business needs and technology solutions."**
+
+---
+
+# 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sayli-patil-tech/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:patilsau237@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://self.so/sayli-patil-4wgt4b" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayliPatil24&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SayliPatil24&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayliPatil24&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+💼 **Open to Business Analyst and Technical Business Analyst opportunities.**
+
+🤝 **Let's connect and collaborate!**
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
